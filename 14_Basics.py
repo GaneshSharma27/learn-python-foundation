@@ -224,4 +224,3 @@ print("Original:", replaceString)
 print("Replacing:", replaceString.replace("Scale", "Ruler"))
 print()
 
-print("Testing pushing code via GUI")
